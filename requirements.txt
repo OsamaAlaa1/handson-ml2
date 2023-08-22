@@ -63,7 +63,7 @@ opencv-python~=4.5.3.56
 pyglet~=1.5.21
 
 #pyvirtualdisplay # needed in chapter 18, if on a headless server
-                  # (i.e., without screen, e.g., Colab or VM)
+                # (i.e., without screen, e.g., Colab or VM)
 
 
 ##### Additional utilities
